@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff6ebfc5-abba-43a0-99b1-624c5320f7c7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_62.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_activation_jakarta_activation_api_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_10_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_compress_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/io.iml" beforeDir="false" afterPath="$PROJECT_DIR$/io.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NetClientImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NetClientImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/io.kotlin_module" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>192.168.20.132</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>127.0.0.1</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1cDdBAEaThJHqISV4iPGIObAB1Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SoftwareConstruction" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="io" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff6ebfc5-abba-43a0-99b1-624c5320f7c7" name="Default" comment="" />
+      <created>1586440356688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586440356688</updated>
+      <workItem from="1586440361989" duration="9314000" />
+      <workItem from="1587085143729" duration="2442000" />
+      <workItem from="1588897670680" duration="4055000" />
+      <workItem from="1589287082764" duration="1310000" />
+      <workItem from="1589288900392" duration="2345000" />
+      <workItem from="1589591077354" duration="680000" />
+      <workItem from="1589782670435" duration="2034000" />
+      <workItem from="1589960839836" duration="2069000" />
+      <workItem from="1590066962714" duration="1576000" />
+      <workItem from="1590069660634" duration="2527000" />
+      <workItem from="1590072410707" duration="312000" />
+      <workItem from="1590108018579" duration="169000" />
+      <workItem from="1590391701053" duration="629000" />
+      <workItem from="1590468931328" duration="244000" />
+      <workItem from="1590579262747" duration="200000" />
+      <workItem from="1590647185072" duration="2658000" />
+      <workItem from="1590659187882" duration="850000" />
+      <workItem from="1590660871440" duration="1809000" />
+      <workItem from="1590664861045" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="526" y="204" key="FileChooserDialogImpl" timestamp="1590664903049">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="526" y="204" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1590664903049" />
+    <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1590108023799" />
+    <state x="740" y="287" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1590579427836" />
+    <state width="1323" height="462" key="GridCell.Tab.0.bottom" timestamp="1590663495368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="540" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1590394137373" />
+    <state width="1323" height="462" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1590663495368" />
+    <state width="1877" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1590108187811" />
+    <state width="1877" height="224" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1590649849010" />
+    <state width="1323" height="462" key="GridCell.Tab.0.center" timestamp="1590663495368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="540" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1590394137373" />
+    <state width="1323" height="462" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1590663495368" />
+    <state width="1877" height="318" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1590108187811" />
+    <state width="1877" height="224" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1590649849010" />
+    <state width="1323" height="462" key="GridCell.Tab.0.left" timestamp="1590663495368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="540" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1590394137373" />
+    <state width="1323" height="462" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1590663495368" />
+    <state width="1877" height="318" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1590108187811" />
+    <state width="1877" height="224" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1590649849010" />
+    <state width="1323" height="462" key="GridCell.Tab.0.right" timestamp="1590663495368">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="540" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1590394137373" />
+    <state width="1323" height="462" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1590663495368" />
+    <state width="1877" height="318" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1590108187811" />
+    <state width="1877" height="224" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1590649849010" />
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog" timestamp="1590069682317">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="179" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1590069682317" />
+    <state x="337" y="139" key="new project wizard" timestamp="1590579473734">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="337" y="139" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1590579473734" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1590071092660">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050@0.0.1920.1050" timestamp="1590071092660" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
